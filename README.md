@@ -3,9 +3,9 @@
 ### Wiki:
 https://github.com/BerndiVader/MythicMobsExtension/wiki
 
-Click [here](https://github.com/BerndiVader/MythicMobsExtension#custom-entities) to see stuff that is not yet in the wiki.
-Click [here](http://mc.hackerzlair.org:8080) for the lastest builds
-Click [here](http://mc.hackerzlair.org/repo) for the repos
+* Click [here](https://github.com/BerndiVader/MythicMobsExtension#custom-entities) to see stuff that is not yet in the wiki.
+* Click [here](http://mc.hackerzlair.org:8080) for the latest builds
+* Click [here](http://mc.hackerzlair.org/repo) for the repos
 
 ## Click [here](https://github.com/BerndiVader/MMExternals) for the MythicMobsExtensions external modules!
 
